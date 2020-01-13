@@ -1,0 +1,19 @@
+*******************************************************************
+
+*                                                                 *
+
+*                    Triangle Statistics                          *
+
+*                    Output file name: error.log                  *
+
+*                                                                 *
+
+*******************************************************************
+
+The following sides are invalid:
+        9 1 1 - Can not form a triangle
+       -1 3 4 - Side(s) can not be negative
+        0 8 2 - Side(s) can not be zero
+       -3 4 -3 - Side(s) can not be negative
+        0 0 0 - Side(s) can not be zero
+        1 2 22 - Can not form a triangle

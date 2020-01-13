@@ -1,0 +1,20 @@
+*******************************************************************
+
+*                                                                 *
+
+*                    Triangle Statistics                          *
+
+*                    Output file name: results.out                *
+
+*                                                                 *
+
+*******************************************************************
+
+The file has the following statistics:
+     6    total # of triangle(s)
+     4    isosceles triangle(s)
+     2    equilateral triangle(s)
+     2    scalene triangle(s)
+     1    right triangle(s)
+    33.65 is the average area of all triangles.
+    49.50 is the average perimeter of all triangles.
